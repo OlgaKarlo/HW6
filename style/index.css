@@ -69,10 +69,16 @@ header .d-flex{
     line-height: 20px;
     color: rgba(255, 255, 255, 0.81);
 }
-.border{
+.border1{
     margin: 28px auto 25px;
     height: 2px;
     background: #FFFFFF;
+    width: 80px;
+}
+.border2{
+    margin: 28px auto 43px;
+    height: 2px;
+    background: rgba(0, 0, 0, 0.09);;
     width: 80px;
 }
 .card img {
@@ -109,9 +115,8 @@ header .d-flex{
     text-align: center;
 }
 .thrive {
-    height: 36px;
     text-align: center;
-    margin: 0 auto;
+    margin: 69px auto 74px;
 }
 .main {
     font-weight: 400;
@@ -129,7 +134,7 @@ header .d-flex{
     text-align: center;
     display: inline-block;
     white-space: nowrap;
-    margin: 15px 5px 0;
+    margin: 0 5px 0;
     /*padding-top: 119px;
     padding-bottom: 149px;*/
 
@@ -159,26 +164,19 @@ header .d-flex{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 74px;
+    margin-bottom: 69px;
 }
 .projects {
-    margin-top: 625px;
     background: #F5F5F5;
+    padding-bottom: 69px;
 }
 .photo {
     width: 300px;
     text-align: center;
-    margin: 18px 5px 0;
+    margin: 0 5px 20px;
     height: 100%;
     display: inline-block;
     white-space: nowrap;
-}
-.main2 {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 20px;
-    color: #333333;
-    text-align: center;
-    text-transform: uppercase;
 }
 .text {
     padding-top: 19px;
